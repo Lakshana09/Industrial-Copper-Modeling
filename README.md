@@ -1,5 +1,4 @@
 ## Industrial Copper Modeling
-https://iambitttu-industrial-copper-modeling-stream-qux2l1.streamlit.app/
 
 ## Introduction
 The Industrial Copper Modeling project focuses on predicting the selling price and status (won or lost) in the industrial copper market using machine learning regression and classification algorithms. By exploring the dataset, performing data cleaning and preprocessing, and applying various machine learning techniques, we aim to develop models that can accurately predict the selling price and status in the copper market.
@@ -43,5 +42,5 @@ Machine Learning Classification: Apply different machine learning classification
 
 Documentation: Prepare a comprehensive documentation summarizing the steps involved in the analysis, including the preprocessing techniques, machine learning algorithms used, and their performance. Include visualizations and interpretations to effectively communicate the results.
 
-Conclusion
+# Conclusion
 The Industrial Copper Modeling project aims to predict the selling price and status in the industrial copper market using machine learning techniques
